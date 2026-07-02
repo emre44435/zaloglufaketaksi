@@ -7,6 +7,6 @@ Kurulum:
 4) Google Search Console'a sitemap.xml gönderin.
 5) Görsel eklemek isterseniz lazy loading kullanın ve webp format tercih edin.
 
-Telefon: 0543 428 01 02
-WhatsApp: 905434280102
+Telefon: 0544 612 62 50
+WhatsApp: 05446126250
 Bölge: Darende / Malatya
