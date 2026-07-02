@@ -1,4 +1,4 @@
-Zaloğlu Fake Taksi - Performans Odaklı Tek Sayfa Web Sitesi
+Zaloğlu Taksi - Performans Odaklı Tek Sayfa Web Sitesi
 
 Kurulum:
 1) index.html, css/style.css, js/main.js, robots.txt ve sitemap.xml dosyalarını hosting ana dizinine yükleyin.
